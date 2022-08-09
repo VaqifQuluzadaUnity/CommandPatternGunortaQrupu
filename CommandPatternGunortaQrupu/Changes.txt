@@ -1,1 +1,1 @@
-MainMenu=null
+MainMenu=1
